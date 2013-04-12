@@ -14,6 +14,11 @@ All Alfred Workflows by Larry Gordon are released under the MIT License. Include
 http://www.opensource.org/licenses/mit-license.php
 
 ## Release Notes
+0.0.2 (04.12.2013)
+
+* Added in 1 second delay to SublimeIt2.alfredworkflow
+
+
 0.0.1 (04.11.2013)
 
 * Created alfred-workflows repo
