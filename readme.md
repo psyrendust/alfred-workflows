@@ -1,5 +1,5 @@
 # Psyrendust Alfred Workflows
-***
+
 This is a collection of my Alfred Workflows that I maintain.
 
 ## Workflows included in `Psyrendust Alfred Workflows`
@@ -9,14 +9,48 @@ This is a collection of my Alfred Workflows that I maintain.
 * **`Copy Finder Path to Clipboard`**: Copy the current Finder path to clipboard
 * **`Open iOS Simulator`**: Opens the iOS Simulator
 * **`SublimeIt2`**: Open selected folder or files in Sublime Text 2
-* **`Tap to Click Toggler`**: Toggle Trackpad "Tap to Click" setting
+* **`Toggle "Tap to Click"`**: Toggle Trackpad "Tap to Click" setting
+* **`Toggle Wi-Fi`**: Toggle Wi-Fi on/off
+
+## Usage
+### Invert Display Colors
+> Keyword: `invert`
+
+### Open Folder in iTerm2
+> Keyword: `oit`
+
+### Open AirDrop
+> Keyword: `airdrop`
+
+### Copy Finder Path to Clipboard
+> Keyword: `cpp`
+
+### Open iOS Simulator
+> Keyword: `iphone`
+> Keyword: `ios`
+
+### SublimeIt2
+> Keyword: `subl`
+
+### Toggle "Tap to Click"
+> Keyword: `tap`
+
+### Toggle Wi-Fi
+> Keyword: `wifi`
 
 ## Licenses
 All Alfred Workflows by Larry Gordon are released under the MIT License. Included third-party software are limited to their respective licenses.
 http://www.opensource.org/licenses/mit-license.php
 
 ## Release Notes
+0.4 (04.18.2013)
+
+* Added `Toggle Wi-Fi` to workflow
+* Added Usage documentation
+* Updated version number
+
 0.3 (04.17.2013)
+
 * Added `Alleyoop` update feature
 * Added `Invert Display Colors`
 * Added `Copy Finder Path to Clipboard`
