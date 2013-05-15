@@ -1,0 +1,6 @@
+{
+    "version": 0.5,
+    "download_url": "https://github.com/psyrendust/alfred-workflows/raw/master/Psyrendust%20Alfred%20Workflows.alfredworkflow",
+    "remote_json": "https://github.com/psyrendust/alfred-workflows/raw/master/update.json",
+    "description": "Fixed 'Toggle Wi-Fi'. Added 'Set Label Color'"
+}

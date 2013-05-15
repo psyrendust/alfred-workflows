@@ -4,20 +4,25 @@ This is a collection of my Alfred Workflows that I maintain.
 
 ## Workflows included in `Psyrendust Alfred Workflows`
 * **`Invert Display Colors`**: Inverts your monitors displays colors
-* **`Open Folder in iTerm2`**: Opens the currently selected folder in iTerm2
+* **`Finder → iTerm2`**: Open current Finder directory in iTerm2
+* **`iTerm2 → Finder`**: Open current iTerm2 directory in Finder
 * **`Open AirDrop`**: Opens Finder and navigates to AirDrop
 * **`Copy Finder Path to Clipboard`**: Copy the current Finder path to clipboard
 * **`Open iOS Simulator`**: Opens the iOS Simulator
 * **`SublimeIt2`**: Open selected folder or files in Sublime Text 2
 * **`Toggle "Tap to Click"`**: Toggle Trackpad "Tap to Click" setting
 * **`Toggle Wi-Fi`**: Toggle Wi-Fi on/off
+* **`Set Label Color`**: Set the label color of selected Finder items
 
 ## Usage
 ### Invert Display Colors
 > Keyword: `invert`
 
-### Open Folder in iTerm2
+### Finder → iTerm2
 > Keyword: `oit`
+
+### iTerm2 → Finder
+> Keyword: `oif`
 
 ### Open AirDrop
 > Keyword: `airdrop`
@@ -38,11 +43,28 @@ This is a collection of my Alfred Workflows that I maintain.
 ### Toggle Wi-Fi
 > Keyword: `wifi`
 
+### Set Label Color
+> Keyword: `l none`
+> Keyword: `l orange`
+> Keyword: `l red`
+> Keyword: `l yellow`
+> Keyword: `l blue`
+> Keyword: `l purple`
+> Keyword: `l green`
+> Keyword: `l gray`
+
 ## Licenses
 All Alfred Workflows by Larry Gordon are released under the MIT License. Included third-party software are limited to their respective licenses.
 http://www.opensource.org/licenses/mit-license.php
 
 ## Release Notes
+0.5 (05.15.2013)
+
+* Fixed `Toggle Wi-Fi` workflow
+* Added 'Set Label Color' to workflow
+* Updated readme.md
+* Updated version number
+
 0.4 (04.18.2013)
 
 * Added `Toggle Wi-Fi` to workflow
