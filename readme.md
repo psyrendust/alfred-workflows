@@ -19,39 +19,39 @@ This is a collection of my Alfred Workflows that I maintain.
 > Keyword: `invert`
 
 ### Finder → iTerm2
-> Keyword: `oit`
+> Keyword: `oit`  
 
 ### iTerm2 → Finder
-> Keyword: `oif`
+> Keyword: `oif`  
 
 ### Open AirDrop
-> Keyword: `airdrop`
+> Keyword: `airdrop`  
 
 ### Copy Finder Path to Clipboard
-> Keyword: `cpp`
+> Keyword: `cpp`  
 
 ### Open iOS Simulator
-> Keyword: `iphone`
-> Keyword: `ios`
+> Keyword: `iphone`  
+> Keyword: `ios`  
 
 ### SublimeIt2
-> Keyword: `subl`
+> Keyword: `subl`  
 
 ### Toggle "Tap to Click"
-> Keyword: `tap`
+> Keyword: `tap`  
 
 ### Toggle Wi-Fi
-> Keyword: `wifi`
+> Keyword: `wifi`  
 
 ### Set Label Color
-> Keyword: `l none`
-> Keyword: `l orange`
-> Keyword: `l red`
-> Keyword: `l yellow`
-> Keyword: `l blue`
-> Keyword: `l purple`
-> Keyword: `l green`
-> Keyword: `l gray`
+> Keyword: `l none`  
+> Keyword: `l orange`  
+> Keyword: `l red`  
+> Keyword: `l yellow`  
+> Keyword: `l blue`  
+> Keyword: `l purple`  
+> Keyword: `l green`  
+> Keyword: `l gray`  
 
 ## Licenses
 All Alfred Workflows by Larry Gordon are released under the MIT License. Included third-party software are limited to their respective licenses.
