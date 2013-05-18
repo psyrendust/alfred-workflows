@@ -1,6 +1,6 @@
 {
-    "version": 0.5,
+    "version": 0.6,
     "download_url": "https://github.com/psyrendust/alfred-workflows/raw/master/Psyrendust%20Alfred%20Workflows.alfredworkflow",
     "remote_json": "https://github.com/psyrendust/alfred-workflows/raw/master/update.json",
-    "description": "Fixed 'Toggle Wi-Fi'. Added 'Set Label Color'"
+    "description": "Updated notification for `Invert Display Colors`, `Copy Finder Path to Clipboard`, and `Toggle "Tap to Click"` to display the current state. Added error output for `Copy Finder Path to Clipboard` in case of failure to copy path."
 }
