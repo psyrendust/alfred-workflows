@@ -1,6 +1,6 @@
 {
-    "version": 0.6,
+    "version": 0.7,
     "download_url": "https://github.com/psyrendust/alfred-workflows/raw/master/Psyrendust%20Alfred%20Workflows.alfredworkflow",
     "remote_json": "https://github.com/psyrendust/alfred-workflows/raw/master/update.json",
-    "description": "Updated notification for `Invert Display Colors`, `Copy Finder Path to Clipboard`, and `Toggle "Tap to Click"` to display the current state. Added error output for `Copy Finder Path to Clipboard` in case of failure to copy path."
+    "description": "Fixed a bug with `iTerm2 → Finder` where the last iTerm session was always being used."
 }

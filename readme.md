@@ -58,6 +58,10 @@ All Alfred Workflows by Larry Gordon are released under the MIT License. Include
 http://www.opensource.org/licenses/mit-license.php
 
 ## Release Notes
+0.7 (05.19.2013)
+
+* Fixed a bug with `iTerm2 → Finder` where the last iTerm session was always being used
+
 0.6 (05.18.2013)
 
 * Notifications now give the current state for `Invert Display Colors`, `Copy Finder Path to Clipboard`, and `Toggle "Tap to Click"`
