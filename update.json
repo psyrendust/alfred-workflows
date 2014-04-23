@@ -1,6 +1,6 @@
 {
-    "version": 0.7,
+    "version": 1.0,
     "download_url": "https://github.com/psyrendust/alfred-workflows/raw/master/Psyrendust%20Alfred%20Workflows.alfredworkflow",
     "remote_json": "https://github.com/psyrendust/alfred-workflows/raw/master/update.json",
-    "description": "Fixed a bug with `iTerm2 → Finder` where the last iTerm session was always being used."
+    "description": "Fixes various bugs related to OS X Mavericks."
 }
